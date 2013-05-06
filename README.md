@@ -1,7 +1,7 @@
 麦垛
 ======
 
-[比赛官方链接](http://segmentfault.com/codejam-2013) http://segmentfault.com/codejam-2013
+比赛官方链接 http://segmentfault.com/codejam-2013
 
 > [看视频了解应用](http://tokyo.imcj.me/md.mp4)
 > 
