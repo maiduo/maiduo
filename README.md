@@ -3,7 +3,7 @@
 
 比赛官方链接 http://segmentfault.com/codejam-2013
 
-> [看视频了解应用](http://tokyo.imcj.me/md.mp4)
+> [看视频了解应用](http://27.120.94.112/md.mp4)
 > 
 > [看Pop了解应用](http://popapp.in/w#!/projects/517ce5fa0c23195b170003af/preview)
 
